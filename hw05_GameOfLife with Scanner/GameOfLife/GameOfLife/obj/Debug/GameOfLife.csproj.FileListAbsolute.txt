@@ -1,0 +1,89 @@
+C:\Users\alexander\source\repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\alexander\source\repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\alexander\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\alexander\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+C:\Users\alexander\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Form1.resources
+C:\Users\alexander\source\repos\GameOfLife — копия\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\alexander\source\repos\GameOfLife — копия\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\GameOfLife — копия\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\GameOfLife — копия\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\alexander\source\repos\GameOfLife — копия\GameOfLife\obj\Debug\GameOfLife.Form1.resources
+C:\Users\alexander\source\repos\GameOfLife — копия\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\alexander\source\repos\GameOfLife — копия\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+C:\Users\alexander\source\repos\GameOfLife — копия\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\GameOfLife — копия\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\GameOfLife — копия\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\готовые домашки\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\alexander\source\repos\готовые домашки\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\готовые домашки\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\готовые домашки\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\alexander\source\repos\готовые домашки\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Form1.resources
+C:\Users\alexander\source\repos\готовые домашки\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\alexander\source\repos\готовые домашки\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+C:\Users\alexander\source\repos\готовые домашки\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\готовые домашки\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\готовые домашки\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\готовые домашки (почти)\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\alexander\source\repos\готовые домашки (почти)\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Form1.resources
+C:\Users\alexander\source\repos\готовые домашки (почти)\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\alexander\source\repos\готовые домашки (почти)\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+C:\Users\alexander\source\repos\готовые домашки (почти)\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\готовые домашки (почти)\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\готовые домашки (почти)\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\готовые домашки (почти)\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\alexander\source\repos\готовые домашки (почти)\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\готовые домашки (почти)\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\задачипроинтерфейсы\GameOfLife with Scanner\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\alexander\source\repos\задачипроинтерфейсы\GameOfLife with Scanner\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\задачипроинтерфейсы\GameOfLife with Scanner\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\задачипроинтерфейсы\GameOfLife with Scanner\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\alexander\source\repos\задачипроинтерфейсы\GameOfLife with Scanner\GameOfLife\obj\Debug\GameOfLife.Form1.resources
+C:\Users\alexander\source\repos\задачипроинтерфейсы\GameOfLife with Scanner\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\alexander\source\repos\задачипроинтерфейсы\GameOfLife with Scanner\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+C:\Users\alexander\source\repos\задачипроинтерфейсы\GameOfLife with Scanner\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\задачипроинтерфейсы\GameOfLife with Scanner\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\задачипроинтерфейсы\GameOfLife with Scanner\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\черновик\GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\alexander\source\repos\черновик\GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Form1.resources
+C:\Users\alexander\source\repos\черновик\GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\alexander\source\repos\черновик\GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+C:\Users\alexander\source\repos\черновик\GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\черновик\GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\черновик\GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\черновик\GameOfLife with Scanner\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\alexander\source\repos\черновик\GameOfLife with Scanner\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\черновик\GameOfLife with Scanner\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\черновик\GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.TerrFavorites.resources
+C:\Users\alexander\source\repos\домашки (готовые и почти)\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\alexander\source\repos\домашки (готовые и почти)\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\домашки (готовые и почти)\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\домашки (готовые и почти)\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\alexander\source\repos\домашки (готовые и почти)\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Form1.resources
+C:\Users\alexander\source\repos\домашки (готовые и почти)\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\alexander\source\repos\домашки (готовые и почти)\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+C:\Users\alexander\source\repos\домашки (готовые и почти)\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\домашки (готовые и почти)\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\домашки (готовые и почти)\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\домашки (готовые и почти)\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.FavoritesForm.resources
+C:\Users\alexander\source\repos\черновой декоратор\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\alexander\source\repos\черновой декоратор\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\черновой декоратор\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\черновой декоратор\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\alexander\source\repos\черновой декоратор\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Form1.resources
+C:\Users\alexander\source\repos\черновой декоратор\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\alexander\source\repos\черновой декоратор\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+C:\Users\alexander\source\repos\черновой декоратор\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\черновой декоратор\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\черновой декоратор\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\alexander\source\repos\черновик\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\alexander\source\repos\черновик\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Form1.resources
+C:\Users\alexander\source\repos\черновик\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\alexander\source\repos\черновик\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+C:\Users\alexander\source\repos\черновик\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\черновик\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\alexander\source\repos\черновик\hw05_GameOfLife with Scanner\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
